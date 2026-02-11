@@ -1,48 +1,45 @@
 === Lucky Orange ===
 Tags: analytics, conversion rate optimization, heatmaps, session recordings, surveys
 Requires at least: 2.0.3
-Tested up to: 6.6.0
-Stable tag: 2.2.3
+Tested up to: 6.8.0
+Stable tag: 2.2.11
 
 Less time crunching numbers, more time growing your business.
 
 == Description ==
-Get 10 conversion rate optimization tools for the cost of one to help reduce cart abandonment and increase sales. Get started with a free plan and scale up as your business grows. Install with one click.
+## Understand your visitors. Improve your website. Increase your sales.
+If your WordPress site is getting traffic but not conversions, Lucky Orange shows you why. With one-click install and a free plan to get started, you can uncover where visitors struggle, what’s stopping them from buying, and how to turn browsers into customers.
+From session recordings to heatmaps, live chat to Page Insights, Lucky Orange helps you optimize every part of your customer journey with clear, visual data.
 
-https://vimeo.com/544842433
+## Dynamic Heatmaps
+Discover where people click, scroll, and hover—including dynamic content like popups, dropdowns, and forms. Works seamlessly with SPAs and AJAX-loaded pages.
 
-## DYNAMIC HEATMAPS
-Want to see the parts of your website that are most popular? A heat map shows where the majority of people clicked, scrolled and moved. Scroll heatmaps show how far down the page people went before leaving and whether they got to your best products or CTAs. Unlike other heat map tools, Lucky Orange’s dynamic heatmaps allow you to study visual engagement patterns including dynamic elements like popups, dropdowns and forms. Lucky Orange heatmaps even work on single page apps (SPAs) and with AJAX.
+## Session Recordings
+Replay real visitor sessions to see how people navigate your site, where they abandon, and what’s preventing conversions.
 
-## SESSION RECORDINGS
-Watch a replay of people navigating your website to see what’s preventing them from converting. Recordings show where people clicked, scrolled, moved and tapped. See how people interacted with products, what they added to cart and what kept them from buying.
+## Conversion Funnels
+Visualize each step of your funnel to find out which pages drive success—and where people are dropping off.
 
-## CONVERSION FUNNELS
-Set up conversion funnels to quickly see how many people complete each step of your purchase journey. See which pages are converting and which are causing people to leave your site.
+## Visitor Profiles
+See each visitor’s journey in a single view, including traffic source, cart value, and all sessions tied to that individual.
 
-## VISITOR PROFILES
-See everything a specific person does on your website organized in one simple view. Find visitors who meet criteria like traffic source or custom data like cart value to see replays of their visits to your site.
+## Live Chat
+Engage visitors in real time based on behavior triggers. Answer questions and recover abandoned conversions before they’re lost.
 
-## LIVE CHAT
-Deliver real-time customer support and use collaboration tools to provide the best response every time. Build lasting relationships by helping people exactly when they need it with event- and time-based triggers.
+## Live View
+See what your visitors are doing right now on your site—every movement, scroll, and click in real time.
 
-## LIVE VIEW
-Live view allows you to see exactly what your customer is experiencing on your website  — in real time. Watch live as customers navigate your site for better insight into what’s working and what’s not.
+## Page Insights
+Instantly surface key performance stats: top-clicked elements, frustration signals, engagement trends, and activity snapshots—all tied to specific pages.
 
-## SURVEYS
-Ask key questions to the right people and use time-based triggers to engage visitors at the right time with surveys.
+## Surveys
+Ask the right questions at the right time—like what visitors are looking for, what’s missing, or why they didn’t convert.
 
-## ANNOUNCEMENTS
-Provide a discount code or product update to all visitors or serve them up to specific visitors by using triggers for criteria like device type, source or visit number.
+## Announcements
+Target visitors with personalized messages, discount offers, or key updates based on device, behavior, or source.
 
-## FORM ANALYTICS
-Find out why people are abandoning your forms and fix these issues to reduce abandonment and increase your sales. Monitor key form metrics like abandonment, field order and time to start to find areas for optimization.
-
-## OPTIMIZABLE SEGMENTS
-Drill down into a single person’s visitor journey  to watch session replays of visitor segments you want to prioritize, such as frustrated or confused visitors.
-
-## DISCOVERY
-Answers the pressing questions about your website visitors through a collection of Optimization Opportunities tied to specific parts of the customer journey. Each of these opportunities represent something you should be paying attention to on your website.
+## Discovery
+Uncover Optimization Opportunities based on specific parts of the customer journey. Know where to focus, and what changes can move the needle.
 
 == Installation ==
 
@@ -57,6 +54,7 @@ After Activating the plugin simply follow the on-screen instructions.
 5. Live Chat
 6. Surveys
 7. Form Analytics
+8. Page Insights
 
 == Changelog ==
 

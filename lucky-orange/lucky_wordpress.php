@@ -207,9 +207,10 @@ function lo_load_tracking_code () {
   $current_user = wp_get_current_user();
   $user = esc_js($current_user->user_login);
   $email = esc_js($current_user->user_email);
+  $timestamp = time();
 
   if ($site_id) {
-    if (is_numeric($site_id)) {
+    if (is_numeric($site_id) && strlen((string)$site_id) <= 6) {
       // Classic
       echo "\r\n";
       echo "<script>window.__lo_site_id = {$site_id};</script>";
