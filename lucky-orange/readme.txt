@@ -1,8 +1,8 @@
 === Lucky Orange ===
 Tags: analytics, conversion rate optimization, heatmaps, session recordings, surveys
 Requires at least: 2.0.3
-Tested up to: 6.8.0
-Stable tag: 2.2.11
+Tested up to: 7.1
+Stable tag: 2.3.1
 
 Less time crunching numbers, more time growing your business.
 
