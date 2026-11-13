@@ -1,12 +1,14 @@
 <?php
 
 /*
-Plugin Name: Lucky Orange
+Plugin Name: Lucky Orange: Heatmaps, Session Recordings & Conversion Analytics
 Plugin URI: https://www.luckyorange.com
-Description: Less time crunching numbers, more time growing your business.
-Version: 2.1.1
+Description: Heatmaps, session recordings, funnels, form analytics, and Discovery AI that show why WordPress visitors leave and what to fix first.
+Version: 2.3.3
 Author: Lucky Orange
 Author URI: https://www.luckyorange.com
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 register_activation_hook(__FILE__, 'lo_activate');
